@@ -1,12 +1,12 @@
 ﻿# Basic
-title: 张群伟
+title: 黄志鸿
 subtitle: 
 description: 欢迎来到我的博客站~
 # 头像里面的标题
-avatarTitle: Z.J
+avatarTitle: PolarisY
 # 头像里面的描述
 avatarDesc: 嵌入式软件
-url: "https://zhangqunwei.github.io"
+url: "https://PolarisY.github.io"
 
 # Comment
 comment:
@@ -16,7 +16,7 @@ comment:
 # Social
 social:
     weibo:  
-    github: zhangqunwei
+    github: PolarisY
     # twitter: 
     mail: 
 
